@@ -1,1 +1,1 @@
-Some interface of Python
+Some interfaces of Python
